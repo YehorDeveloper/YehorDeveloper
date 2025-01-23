@@ -4,9 +4,9 @@
 
   # ⭐️Yehor Miroshnikov⭐️
 
-  ### **`Frontend Developer | Project Manager | CRM | Software Engineer`**
+  ### **`Frontend Developer | Project Manager | CMS | Software Engineer`**
 
-  With over three years of experience, I specialize in frontend development, CRM systems, and project management. My focus is on creating modern, user-friendly interfaces, optimizing workflows, and managing projects efficiently to deliver results that exceed expectations.
+  With over three years of experience, I specialize in frontend development, CMS systems, and project management. My focus is on creating modern, user-friendly interfaces, optimizing workflows, and managing projects efficiently to deliver results that exceed expectations.
 
   Let’s bring your ideas to life and achieve your business goals together!
   <div align="left">
