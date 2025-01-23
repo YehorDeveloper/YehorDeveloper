@@ -143,7 +143,5 @@
   
   ### 📊 Stats
   
-  <div align="center">
-    <img src="https://streak-stats.demolab.com?user=EhorDev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  </div>
+  ![Yeros's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehordev&show_icons=true&theme=dracula)
 
