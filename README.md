@@ -14,7 +14,7 @@
         <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge&labelColor=CE4630" height="30" alt="telegram logo" title="Telegram"/></a>
     <a href="https://wa.me/380970307768" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge&labelColor=CE4630" height="30" alt="whatsapp logo"/></a>
-    <a href="yehormiroshnikov@gmail.com" target="_blank">
+    <a href="malito:yehormiroshnikov@gmail.com" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge&labelColor=CE4630" height="30" alt="gmail logo"/></a>
     <a href="https://www.linkedin.com/in/ehor-miroshnikov/" target="_blank">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge&labelColor=CE4630" height="30" alt="linkedin logo"/></a>
