@@ -31,8 +31,6 @@
     <img width="16" />
     <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
     <img width="16" />
-    <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-    <img width="16" />
     <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
     <img width="16" />
     <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
@@ -41,39 +39,23 @@
     <img width="16" />
     <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
     <img width="16" />
-    <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
-    <img width="16" />
-    <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-    <img width="16" />
-    <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
-    <img width="16" />
-    <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="googlecloud logo"  />
-    <img width="16" />
-    <img src="https://skillicons.dev/icons?i=materialui" height="50" alt="materialui logo"  />
-    <img width="16" />
-    <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
-    <img width="16" />
-    <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-    <img width="16" />
-    <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="nestjs logo"  />
+    <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
     <img width="16" />
     <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
     <img width="16" />
-    <img src="https://skillicons.dev/icons?i=nginx" height="50" alt="nginx logo"  />
-    <img width="16" />
     <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
     <img width="16" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm logo"  />
-    <img width="16" />
-    <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
-    <img width="16" />
-    <img src="https://skillicons.dev/icons?i=redis" height="50" alt="redis logo"  />
+    <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
     <img width="16" />
     <img src="https://skillicons.dev/icons?i=redux" height="50" alt="redux logo"  />
     <img width="16" />
+    <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
+    <img width="16" />
     <img src="https://skillicons.dev/icons?i=sass" height="50" alt="sass logo"  />
     <img width="16" />
-    <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
+    <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+    <img width="16" />
+    <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
     <img width="16" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="50" alt="woocommerce logo"  />
     <img width="16" />
@@ -81,33 +63,17 @@
     <img width="16" />
     <img src="https://skillicons.dev/icons?i=webpack" height="50" alt="webpack logo"  />
     <img width="16" />
-    <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
+    <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="googlecloud logo"  />
     <img width="16" />
-    <img src="https://skillicons.dev/icons?i=ae" height="50" alt="adobeaftereffects logo"  />
+    <img src="https://skillicons.dev/icons?i=materialui" height="50" alt="materialui logo"  />
     <img width="16" />
-    <img src="https://skillicons.dev/icons?i=au" height="50" alt="adobeaudition logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm logo"  />
     <img width="16" />
-    <img src="https://skillicons.dev/icons?i=ai" height="50" alt="adobeillustrator logo"  />
-    <img width="16" />
-    <img src="https://skillicons.dev/icons?i=ps" height="50" alt="adobephotoshop logo"  />
-    <img width="16" />
-    <img src="https://skillicons.dev/icons?i=pr" height="50" alt="adobepremierepro logo"  />
-    <img width="16" />
-    <img src="https://skillicons.dev/icons?i=cloudflare" height="50" alt="cloudflare logo"  />
-    <img width="16" />
-    <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
-    <img width="16" />
-    <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
+    <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
     <img width="16" />
     <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo"  />
     <img width="16" />
-    <img src="https://skillicons.dev/icons?i=jquery" height="50" alt="jquery logo"  />
-    <img width="16" />
     <img src="https://skillicons.dev/icons?i=netlify" height="50" alt="netlify logo"  />
-    <img width="16" />
-    <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
-    <img width="16" />
-    <img src="https://skillicons.dev/icons?i=prisma" height="50" alt="prisma logo"  />
   </div>
   
   ---
@@ -177,5 +143,7 @@
   
   ### 📊 Stats
   
-  ![Yeros's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehordev&show_icons=true&theme=dracula)
+  <div align="center">
+    <img src="https://streak-stats.demolab.com?user=EhorDev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  </div>
 
