@@ -12,7 +12,7 @@
   <div align="left">
     <a href="https://t.me/YehorAgency" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge&labelColor=CE4630" height="30" alt="telegram logo" title="Telegram"/></a>
-    <a href="https://wa.me/380970307768" target="_blank">
+    <a href="https://wa.me/48571268499" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge&labelColor=CE4630" height="30" alt="whatsapp logo"/></a>
         <a href="mailto:yehormiroshnikov@gmail.com" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge&labelColor=CE4630" height="30" alt="gmail logo"/></a>
