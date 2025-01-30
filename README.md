@@ -145,5 +145,5 @@
   
   ### 📊 Stats
   
-  ![Yeros's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehordev&show_icons=true&theme=dracula)
+  ![Yeros's GitHub stats](https://github-readme-stats.vercel.app/api?username=yehordeveloper&show_icons=true&theme=dracula)
 
