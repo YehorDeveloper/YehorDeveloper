@@ -4,7 +4,7 @@
 
   # ⭐️Yehor Miroshnikov⭐️
 
-  ### **`Frontend Developer | Project Manager | CMS | Software Engineer`**
+  ### **`Full Stack Developer | Project Manager | CMS | Software Engineer`**
 
   With over three years of experience, I specialize in frontend development, CMS systems, and project management. My focus is on creating modern, user-friendly interfaces, optimizing workflows, and managing projects efficiently to deliver results that exceed expectations.
 
