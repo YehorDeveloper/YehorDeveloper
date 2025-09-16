@@ -6,9 +6,25 @@
 
   ### **`Full Stack Developer | Project Manager | CMS | Software Engineer`**
 
-  With over three years of experience, I specialize in frontend development, CMS systems, and project management. My focus is on creating modern, user-friendly interfaces, optimizing workflows, and managing projects efficiently to deliver results that exceed expectations.
+I build scalable, high-performance web and mobile applications and digital platforms that drive business growth, user engagement, and efficiency from concept to deployment. With 3+ years of specialized experience in full-stack development and modern JavaScript stack, I've delivered 40+ projects across 15 countries, transforming ideas into robust digital products and custom solutions for growing businesses worldwide.
 
-  Let’s bring your ideas to life and achieve your business goals together!
+⚙️ Full-Stack Web & Mobile Development
+End-to-end development of custom applications using modern JavaScript frameworks with scalable architecture patterns. From system design to deployment, I create seamless solutions that handle complex business logic, real-time features, and high traffic loads.
+
+⚛️ Frontend Development with React & Next.js
+Dynamic, responsive user interfaces built with React components and Next.js for server-side rendering, SEO-optimized apps, and static generation. Feature-Sliced Design (FSD) architecture for maintainable, scalable frontend codebases with performance, accessibility, and mobile-first approach.
+
+🛡️ Backend Development with Node.js/Express.js/NestJS
+Secure, modular backends using Node.js with Express.js, and NestJS with Clean Architecture principles for RESTful APIs, microservices, and real-time applications. Well-structured database architecture design, authentication systems, and third-party service integrations for maximum reliability and scalability.
+
+🚀 API Integrations & DevOps
+Seamless integrations with external APIs, payment gateways, Keitaro tracking systems, and cloud services. Implementation of CI/CD pipelines, Docker containerization, Cloudflare optimization, and deployment on AWS/Vercel with database architecture for efficient, maintainable systems.
+
+🎨 UI/UX Design & Development
+Complete design-to-code workflow with user interface design, prototyping, and pixel-perfect implementation. Focus on user experience optimization, conversion rates, and intuitive application interfaces.
+
+📱 Progressive Web Apps (PWA)
+Mobile-first web applications that deliver native app experience with offline functionality, push notifications, and responsive design using modern web technologies and optimized performance.
   <div align="left">
     <a href="https://t.me/YehorAgency" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge&labelColor=CE4630" height="30" alt="telegram logo" title="Telegram"/></a>
@@ -33,6 +49,8 @@
     <img width="16" />
     <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
     <img width="16" />
+    <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+    <img width="16" />
     <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
     <img width="16" />
     <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
@@ -41,23 +59,39 @@
     <img width="16" />
     <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
     <img width="16" />
-    <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-    <img width="16" />
-    <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
-    <img width="16" />
-    <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
-    <img width="16" />
     <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
     <img width="16" />
-    <img src="https://skillicons.dev/icons?i=redux" height="50" alt="redux logo"  />
-    <img width="16" />
-    <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
-    <img width="16" />
-    <img src="https://skillicons.dev/icons?i=sass" height="50" alt="sass logo"  />
+    <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
     <img width="16" />
     <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
     <img width="16" />
-    <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+    <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="googlecloud logo"  />
+    <img width="16" />
+    <img src="https://skillicons.dev/icons?i=materialui" height="50" alt="materialui logo"  />
+    <img width="16" />
+    <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
+    <img width="16" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+    <img width="16" />
+    <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="nestjs logo"  />
+    <img width="16" />
+    <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
+    <img width="16" />
+    <img src="https://skillicons.dev/icons?i=nginx" height="50" alt="nginx logo"  />
+    <img width="16" />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
+    <img width="16" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm logo"  />
+    <img width="16" />
+    <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
+    <img width="16" />
+    <img src="https://skillicons.dev/icons?i=redis" height="50" alt="redis logo"  />
+    <img width="16" />
+    <img src="https://skillicons.dev/icons?i=redux" height="50" alt="redux logo"  />
+    <img width="16" />
+    <img src="https://skillicons.dev/icons?i=sass" height="50" alt="sass logo"  />
+    <img width="16" />
+    <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
     <img width="16" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="50" alt="woocommerce logo"  />
     <img width="16" />
@@ -65,17 +99,33 @@
     <img width="16" />
     <img src="https://skillicons.dev/icons?i=webpack" height="50" alt="webpack logo"  />
     <img width="16" />
-    <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="googlecloud logo"  />
+    <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
     <img width="16" />
-    <img src="https://skillicons.dev/icons?i=materialui" height="50" alt="materialui logo"  />
+    <img src="https://skillicons.dev/icons?i=ae" height="50" alt="adobeaftereffects logo"  />
     <img width="16" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm logo"  />
+    <img src="https://skillicons.dev/icons?i=au" height="50" alt="adobeaudition logo"  />
     <img width="16" />
-    <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
+    <img src="https://skillicons.dev/icons?i=ai" height="50" alt="adobeillustrator logo"  />
+    <img width="16" />
+    <img src="https://skillicons.dev/icons?i=ps" height="50" alt="adobephotoshop logo"  />
+    <img width="16" />
+    <img src="https://skillicons.dev/icons?i=pr" height="50" alt="adobepremierepro logo"  />
+    <img width="16" />
+    <img src="https://skillicons.dev/icons?i=cloudflare" height="50" alt="cloudflare logo"  />
+    <img width="16" />
+    <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
+    <img width="16" />
+    <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
     <img width="16" />
     <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo"  />
     <img width="16" />
+    <img src="https://skillicons.dev/icons?i=jquery" height="50" alt="jquery logo"  />
+    <img width="16" />
     <img src="https://skillicons.dev/icons?i=netlify" height="50" alt="netlify logo"  />
+    <img width="16" />
+    <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
+    <img width="16" />
+    <img src="https://skillicons.dev/icons?i=prisma" height="50" alt="prisma logo"  />
   </div>
   
   ---
